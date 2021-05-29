@@ -1,0 +1,3 @@
+[run]
+source = .
+omit = /home/walterschweitzer/projects/wayfair/tests/*,venv/*,*__main__.py

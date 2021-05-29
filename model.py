@@ -6,7 +6,7 @@ class CouponModel:
     Simulates a Coupon model that would return or persist data from a data store.
     """
 
-    def get_coupoun_data(self) -> List[dict]:
+    def get_coupon_data(self) -> List[dict]:
         return [
             {
                 "category_name": "Comforter Sets",
