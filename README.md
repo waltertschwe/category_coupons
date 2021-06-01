@@ -3,6 +3,7 @@ Python 3.8
 
 # Installation
 source venv/bin/activate
+
 pip install -r requirements.txt
 
 # Run App
